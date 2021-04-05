@@ -1,4 +1,12 @@
 /* Basic Style */
+* {
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle; /* Сброс дефолтных стилей - можно использовать теговые селекторы */
+}
+
 .page {
   background-color: #f8f8f8;
   color: #333;
