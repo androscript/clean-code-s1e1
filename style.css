@@ -89,6 +89,13 @@ button {
 }
 
 /* Heading */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
 .section-title {
   color: #333;
   font-weight: 700;
